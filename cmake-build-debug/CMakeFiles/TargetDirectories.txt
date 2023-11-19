@@ -1,0 +1,3 @@
+D:/Projekty/C/Clox/cmake-build-debug/CMakeFiles/Clox.dir
+D:/Projekty/C/Clox/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projekty/C/Clox/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+# ninja log v5
+4	755	7221396920000000	CMakeFiles/Clox.dir/main.c.obj	45d8fa04fce95a87
+9	802	7221396920000000	CMakeFiles/Clox.dir/src/chunk.c.obj	f4894a2d20d16318
+15	847	7221396920000000	CMakeFiles/Clox.dir/src/debug.c.obj	6b0ec03f3c2f0c39
+284	549	7221364800000000	Clox.exe	511dd2adf10ab4f4
+755	1095	7221396940000000	CMakeFiles/Clox.dir/src/value.c.obj	d29364fa4304b399
+3	248	7221398140000000	CMakeFiles/Clox.dir/src/chunk.c.obj	f4894a2d20d16318
+4	350	7221399120000000	CMakeFiles/Clox.dir/src/chunk.c.obj	f4894a2d20d16318
+12	400	7221399120000000	CMakeFiles/Clox.dir/src/value.c.obj	d29364fa4304b399
+401	624	7221399120000000	Clox.exe	22ee6f9ec60346b9
+4	260	7221400780000000	CMakeFiles/Clox.dir/src/debug.c.obj	6b0ec03f3c2f0c39
+260	511	7221400780000000	Clox.exe	22ee6f9ec60346b9

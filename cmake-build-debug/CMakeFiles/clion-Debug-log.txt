@@ -1,0 +1,4 @@
+"D:\Aplikacje\IntelliJ\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Aplikacje/IntelliJ/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\Projekty\C\Clox -B D:\Projekty\C\Clox\cmake-build-debug
+-- Configuring done (1.0s)
+-- Generating done (0.3s)
+-- Build files have been written to: D:/Projekty/C/Clox/cmake-build-debug
